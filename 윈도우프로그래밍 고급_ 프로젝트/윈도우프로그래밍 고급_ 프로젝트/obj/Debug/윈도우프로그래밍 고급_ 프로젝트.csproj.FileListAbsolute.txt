@@ -1,0 +1,13 @@
+C:\Users\홍영광\source\repos\윈도우프로그래밍 고급_ 프로젝트\윈도우프로그래밍 고급_ 프로젝트\bin\Debug\윈도우프로그래밍 고급_ 프로젝트.exe.config
+C:\Users\홍영광\source\repos\윈도우프로그래밍 고급_ 프로젝트\윈도우프로그래밍 고급_ 프로젝트\bin\Debug\윈도우프로그래밍 고급_ 프로젝트.exe
+C:\Users\홍영광\source\repos\윈도우프로그래밍 고급_ 프로젝트\윈도우프로그래밍 고급_ 프로젝트\bin\Debug\윈도우프로그래밍 고급_ 프로젝트.pdb
+C:\Users\홍영광\source\repos\윈도우프로그래밍 고급_ 프로젝트\윈도우프로그래밍 고급_ 프로젝트\obj\Debug\윈도우프로그래밍 고급_ 프로젝트.csprojAssemblyReference.cache
+C:\Users\홍영광\source\repos\윈도우프로그래밍 고급_ 프로젝트\윈도우프로그래밍 고급_ 프로젝트\obj\Debug\윈도우프로그래밍_고급__프로젝트.Properties.Resources.resources
+C:\Users\홍영광\source\repos\윈도우프로그래밍 고급_ 프로젝트\윈도우프로그래밍 고급_ 프로젝트\obj\Debug\윈도우프로그래밍 고급_ 프로젝트.csproj.GenerateResource.cache
+C:\Users\홍영광\source\repos\윈도우프로그래밍 고급_ 프로젝트\윈도우프로그래밍 고급_ 프로젝트\obj\Debug\윈도우프로그래밍 고급_ 프로젝트.csproj.CoreCompileInputs.cache
+C:\Users\홍영광\source\repos\윈도우프로그래밍 고급_ 프로젝트\윈도우프로그래밍 고급_ 프로젝트\obj\Debug\윈도우프로그래밍 고급_ 프로젝트.exe
+C:\Users\홍영광\source\repos\윈도우프로그래밍 고급_ 프로젝트\윈도우프로그래밍 고급_ 프로젝트\obj\Debug\윈도우프로그래밍 고급_ 프로젝트.pdb
+C:\Users\홍영광\source\repos\윈도우프로그래밍 고급_ 프로젝트\윈도우프로그래밍 고급_ 프로젝트\obj\Debug\윈도우프로그래밍_고급__프로젝트.Form1.resources
+C:\Users\홍영광\source\repos\윈도우프로그래밍 고급_ 프로젝트\윈도우프로그래밍 고급_ 프로젝트\obj\Debug\윈도우프로그래밍_고급__프로젝트.Form2.resources
+C:\Users\홍영광\source\repos\윈도우프로그래밍 고급_ 프로젝트\윈도우프로그래밍 고급_ 프로젝트\obj\Debug\윈도우프로그래밍_고급__프로젝트.Form3.resources
+C:\Users\홍영광\source\repos\윈도우프로그래밍 고급_ 프로젝트\윈도우프로그래밍 고급_ 프로젝트\obj\Debug\윈도우프로그래밍_고급__프로젝트.Form4.resources

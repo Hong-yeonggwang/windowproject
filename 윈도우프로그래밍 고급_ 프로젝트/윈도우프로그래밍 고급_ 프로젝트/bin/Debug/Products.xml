@@ -1,0 +1,32 @@
+<Products>
+<product>
+  <name>김치 사발면</name>
+<life>2022-10-01 오전 12:00:00</life>
+<price>950</price>
+<ea>100</ea>
+</product>
+<product>
+  <name>농심 포테이토칩</name>
+<life>2022-02-22 오전 12:00:00</life>
+<price>1200</price>
+<ea>100</ea>
+</product>
+<product>
+  <name>허니버터칩</name>
+<life>2019-01-11 오전 12:00:00</life>
+<price>12000</price>
+<ea>100</ea>
+</product>
+<product>
+  <name>농심 신라면</name>
+<life>2022-02-22 오전 12:00:00</life>
+<price>900</price>
+<ea>100</ea>
+</product>
+<product>
+  <name>농심 육개장</name>
+<life>2022-02-22 오전 12:00:00</life>
+<price>950</price>
+<ea>100</ea>
+</product>
+</Products>

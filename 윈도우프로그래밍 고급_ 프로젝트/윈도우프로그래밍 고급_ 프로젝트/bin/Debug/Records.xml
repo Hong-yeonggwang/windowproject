@@ -1,0 +1,20 @@
+<Records>
+<record>
+  <date>2021/10/30</date>
+  <cash>0</cash>
+  <card>6650</card>
+  <total>6650</total>
+</record>
+<record>
+  <date>2021/10/31</date>
+  <cash>8000</cash>
+  <card>0</card>
+  <total>8000</total>
+</record>
+<record>
+  <date>2021/11/01</date>
+  <cash>8000</cash>
+  <card>6650</card>
+  <total>14650</total>
+</record>
+</Records>
